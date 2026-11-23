@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistem operasi
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Berkas sementara
+nb_dump.txt
